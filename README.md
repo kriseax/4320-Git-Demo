@@ -4,4 +4,8 @@ Actually learning git!!!!!
 
 ## Topics
 git pull
-git clone 
+git clone
+
+## Project Requirements
+
+Teams must use git
